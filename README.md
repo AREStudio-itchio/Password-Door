@@ -1,0 +1,1 @@
+Este es un proyecto que usa el motor gráfico Tiny2D (arestudio.itch.io/tiny2d) licenciado bajo BSL1.0 license (Boost Software License, no confundir con otras), este es un proyecto licenciado bajo MIT 0, sirve como ejemplo para usar Tiny2D, y para divertirse un poco, ve a:  para descargar las descargas compiladas.
