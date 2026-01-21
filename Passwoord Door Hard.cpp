@@ -110,7 +110,7 @@ void _ROOM(float dt) {
     DrawText2D("Enter the 9-digit code to open the door:", 10, 100, color.BLACK);
     DrawText2D(("Input: " + inputCode).c_str(), 10, 130, color.BLACK);
     
-    for (int k = '1'; k <= '9'; k++) {
+    for (int k = '0'; k <= '9'; k++) {
         if (IsKeyPressed(k)) {
             inputCode += (char)k;
         }
